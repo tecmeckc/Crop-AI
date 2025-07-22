@@ -31,10 +31,10 @@ The model is trained using a dataset of soil nutrient levels and weather conditi
 
 ```
 Crop-AI-Project/
-├── notebooks/
-│   └── Crop-AI.ipynb               # AutoAI-generated pipeline notebook
-├── data/
-│   └── Crop_recommendation.csv     # Dataset used for training
+├── Crop-AI.ipynb               # AutoAI-generated pipeline notebook
+│    
+├── Crop_recommendation.csv     # Dataset used for training
+│   
 ├── README.md                       # Project documentation file
 └── .gitignore                      # Ignore rules for Python/Git
 ```
